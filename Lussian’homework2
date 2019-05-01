@@ -1,0 +1,4 @@
+利用循环依次打出list中的名字，用hello，xxx！形式
+l=['Bart','Lisa','Adam']
+for i in l:
+    print("hello,"+i+"!")
